@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Runtime data
+EGO_uploads/
+EGO_data/
+TITAN_uploads/
+TITAN_data/
+HOSTING_uploads/
+HOSTING_data/
+
+# Downloads / temp
+downloads/
+temp/
+userbot_logs/
+data/
+
+# Env
+.env
+*.env
+
+# DB
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+package-lock.json
+
+# Session files
+*.session
+*.session-journal
+session_string.txt
