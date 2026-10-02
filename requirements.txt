@@ -64,7 +64,6 @@ pytz>=2024.1
 # Misc
 faker>=25.2.0
 pycountry>=24.6.1
-python-names>=0.5.0
 curl2pyreqs>=1.0.0
 stdiomask>=0.0.6
 deep-translator>=1.11.4
